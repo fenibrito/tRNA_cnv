@@ -21,8 +21,7 @@ The `tRNA_cnv` directory holds all the intermediate files (`data`) and the R scr
 `/home/feni/repository/trna_project/scripts/codon_usage.R` contains the code to reproduce Figures 2A and 2B
 `/home/feni/repository/trna_project/scripts/anticodon_obs_freq.R` contains the code to reproduce Figures 2C, 2D and 2E
 `/home/feni/repository/trna_project/scripts/genome_size_vs_gene_count.R` contains the code to reproduce Figures 2F, 2G, 2H, 3A, 3B, 3C, 3D and 3E
-`/home/feni/repository/trna_project/scripts/n_anticodon_vs_genomic_features.R` contains the code to reproduce Figure 3F, 3G and H
-`/home/feni/repository/trna_project/scripts/compare_genome_information.R` contains the code to reproduce Figure 3I
+`/home/feni/repository/trna_project/scripts/n_anticodon_vs_genomic_features.R` contains the code to reproduce Figure 3F, 3G and H`/home/feni/repository/trna_project/scripts/compare_genome_information.R` contains the code to reproduce Figure 3I
 `/home/feni/repository/trna_project/scripts/trna_gene_length.R` contains the code to reproduce Figures 3J
 `/home/feni/repository/trna_project/scripts/intron_count.R` contains the code to reproduce Figures 3J
 `/home/feni/repository/trna_project/scripts/cnv_interspecie.R` contains the code to reproduce Figure 4A and 4B
