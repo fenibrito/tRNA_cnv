@@ -7,8 +7,8 @@ This repository contains all the data and code used in the project
 The `tRNA_cnv` directory holds all the intermediate files (`data`) and the R scripts (`scripts`) needed to generate all the Figures and Tables in the paper:
 
 
-`/home/feni/repository/trna_project/scripts/download_filter_gtrnadb_data.R` contains the code to download the GtRNAdb data and to make all the modifications needed for further analysis
-`/home/feni/repository/trna_project/scripts/taxID.R` contains the code and instructions to recover the taxonomic lineage for each specie on the GtRNAdb
+`download_filter_gtrnadb_data.R` contains the code to download the GtRNAdb data and to make all the modifications needed for further analysis
+`taxID.R` contains the code and instructions to recover the taxonomic lineage for each specie on the GtRNAdb
 
 **running the first two scripts is necessary for the proper execution of the following scripts**
 
