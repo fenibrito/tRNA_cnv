@@ -1,6 +1,6 @@
 # tRNA_cnv
  
-README
+# README
 
 This repository contains all the data and code used for PAPER_CITATION.
 
